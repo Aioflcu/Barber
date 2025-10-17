@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pdf-viewer/static/css/main.fcf6b6b4.css",
+    "main.js": "/Pdf-viewer/static/js/main.3cbb22b6.js",
+    "index.html": "/Pdf-viewer/index.html",
+    "main.fcf6b6b4.css.map": "/Pdf-viewer/static/css/main.fcf6b6b4.css.map",
+    "main.3cbb22b6.js.map": "/Pdf-viewer/static/js/main.3cbb22b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf6b6b4.css",
+    "static/js/main.3cbb22b6.js"
+  ]
+}
