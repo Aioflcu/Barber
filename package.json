@@ -12,11 +12,12 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.18"
   },
   "scripts": {
+  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "serve": "npx serve -s build -l 5000",
